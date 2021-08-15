@@ -68,7 +68,8 @@ c2 = "\033[0;97m"
 
 c3 = "\033[1;91m"
 
-logo = """                                          
+#My Logo
+logo ="""             
 \033[1;96m========================================\033[1;97m
 \033[1;96m(~)\033[1;97m Author : Hamayun Khan
 \033[1;96m(~)\033[1;97m Github : http://github.com/Hamayun-musa
